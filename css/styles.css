@@ -1,0 +1,37 @@
+
+.education {
+    color: black;
+    font-size: large; 
+    border: 4px solid red;
+    padding: 8px;
+    background-color: rosybrown;
+    
+}
+.contacts {
+    color: darkgreen;
+    font-size: large;
+    float: right;
+    border: 4px solid black;
+    padding: 6px;
+    background-color: darkkhaki;
+}
+
+body {
+    background-color: darkgrey;
+}
+#first{
+    color: darkmagenta;
+    font-size: 24px;
+    text-align: center;
+}
+.column {
+    color: maroon;
+    font-size: large;
+    width: 350px;
+    height: 400px;
+    float: left;
+    border: 4px solid black;
+    padding: 6px;
+    background-color: lightskyblue;
+
+}
